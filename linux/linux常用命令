@@ -1,0 +1,10 @@
+#重启配置
+ source /etc/profile
+
+#zookeeper命令
+##开启服务
+ zkServer.sh start
+##关闭服务
+ zkServer.sh stop
+##重启服务
+ zkServer.sh restart
