@@ -1,0 +1,9 @@
+一.快捷键
+1.Ctrl+Alt+M 选中自动提取代码生成方法 
+2.Alt + Insert 自动生成构造函数
+3.a + Tab 自动生成注释(自己添加的)
+
+二.快捷输入
+1.psvm  main函数
+2.sout 输出语句
+3.fori for循环
