@@ -1,0 +1,12 @@
+1.开启Zookeeper
+zkserver
+
+2.开启kafka
+删除temp
+.\bin\windows\kafka-server-start.bat config\server.properties
+
+3.开启生产者
+kafka-console-producer.bat --broker-list localhost:9092 --topic test0811 
+
+4.开启消费者
+kafka-console-consumer.bat --zookeeper localhost:2181 --topic test0811
