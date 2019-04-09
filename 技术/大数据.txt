@@ -1,0 +1,7 @@
+Neo4j  图形数据库
+
+Presto hive查询工具
+
+KYLIN  开源的分布式分析引擎，提供Hadoop之上的SQL查询接口及多维分析（OLAP）能力以支持超大规模数据
+
+Impala 基于HDFS/Hbase的SQL查询

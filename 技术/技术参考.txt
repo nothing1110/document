@@ -1,0 +1,3 @@
+1.Snowflake : 分布式唯一ID算法
+2.html转pdf格式 jsPDF、iText、wkhtmltopdf
+3.Freemarker : Java模版引擎
